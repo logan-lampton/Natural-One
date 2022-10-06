@@ -2,7 +2,7 @@
 
 Natural One is a table top role-playing game (TTRPG) party and member tracker programmed in TypeScript and Ruby with Sinatra.
 
-TTRPGs are incredibly fun, but it can be a huge hassle to keep track of your adventuring parties and the members of them. Don't feel as unlucky as you rolling a natural one trying to keep on top of your groups; use Natural One instead!
+TTRPGs are really fun, but it can be a huge hassle to keep track of your adventuring parties and the members of them. Don't feel as unlucky as you rolling a natural one trying to keep on top of your groups; use Natural One instead!
 
 Natural One allows the user to create, view, edit and delete their parties for their TTRPG and add and view the members that belong to those parties.
 
