@@ -9,7 +9,7 @@ Natural One allows the user to create, view, edit and delete their parties for t
 Below is a quick tour through our app.
 
 <p align="center">
-    <img width=75% src="https://i.imgur.com/Bx0Ftkl.gif" />
+    <img width=90% src="https://i.imgur.com/Bx0Ftkl.gif" />
 </p>
 
 ---
