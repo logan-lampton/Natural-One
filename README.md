@@ -6,6 +6,12 @@ TTRPGs are really fun, but it can be a huge hassle to keep track of your adventu
 
 Natural One allows the user to create, view, edit and delete their parties for their TTRPG and add and view the members that belong to those parties.
 
+Below is a quick tour through our app.
+
+<p align="center">
+    <img width=75% src="https://i.imgur.com/Bx0Ftkl.gif" />
+</p>
+
 ---
 ## Side Bar:
 The parties and their descriptors are displayed on the left sidebar of the screen. On each party, the user can click the following:
